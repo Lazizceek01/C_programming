@@ -1,0 +1,3 @@
+﻿  3kun Takrorlash.cpp
+C:\Users\azizo\source\repos\3kun Takrorlash\3kun Takrorlash.cpp(98,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  3kun Takrorlash.vcxproj -> C:\Users\azizo\source\repos\3kun Takrorlash\x64\Debug\3kun Takrorlash.exe

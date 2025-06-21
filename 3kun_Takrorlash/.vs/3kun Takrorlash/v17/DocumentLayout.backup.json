@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azizo\\source\\repos\\3kun Takrorlash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4177D7-94C1-4E37-B388-47E9AB14DBDC}|3kun Takrorlash.vcxproj|C:\\Users\\azizo\\source\\repos\\3kun Takrorlash\\3kun Takrorlash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4177D7-94C1-4E37-B388-47E9AB14DBDC}|3kun Takrorlash.vcxproj|solutionrelative:3kun Takrorlash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3kun Takrorlash.cpp",
+              "DocumentMoniker": "C:\\Users\\azizo\\source\\repos\\3kun Takrorlash\\3kun Takrorlash.cpp",
+              "RelativeDocumentMoniker": "3kun Takrorlash.cpp",
+              "ToolTip": "C:\\Users\\azizo\\source\\repos\\3kun Takrorlash\\3kun Takrorlash.cpp*",
+              "RelativeToolTip": "3kun Takrorlash.cpp*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T11:24:01.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

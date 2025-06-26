@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azizo\\source\\repos\\6_7_repeat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4264902-EB42-4353-AD0C-94B6511A9FFC}|6_7_repeat.vcxproj|C:\\Users\\azizo\\source\\repos\\6_7_repeat\\Week_repeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4264902-EB42-4353-AD0C-94B6511A9FFC}|6_7_repeat.vcxproj|solutionrelative:Week_repeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Week_repeat.cpp",
+              "DocumentMoniker": "C:\\Users\\azizo\\source\\repos\\6_7_repeat\\Week_repeat.cpp",
+              "RelativeDocumentMoniker": "Week_repeat.cpp",
+              "ToolTip": "C:\\Users\\azizo\\source\\repos\\6_7_repeat\\Week_repeat.cpp",
+              "RelativeToolTip": "Week_repeat.cpp",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAkwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T04:33:10.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

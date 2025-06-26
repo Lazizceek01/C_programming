@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azizo\\source\\repos\\7kun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E21B0C22-E29B-48BE-8B93-039D071D13B9}|7kun.vcxproj|C:\\Users\\azizo\\source\\repos\\7kun\\7kun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E21B0C22-E29B-48BE-8B93-039D071D13B9}|7kun.vcxproj|solutionrelative:7kun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "7kun.cpp",
+              "DocumentMoniker": "C:\\Users\\azizo\\source\\repos\\7kun\\7kun.cpp",
+              "RelativeDocumentMoniker": "7kun.cpp",
+              "ToolTip": "C:\\Users\\azizo\\source\\repos\\7kun\\7kun.cpp",
+              "RelativeToolTip": "7kun.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-25T10:15:23.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
